@@ -42,7 +42,9 @@ Provide an update on the project. How far did you get? What challenges did you f
 ### Resources
 California Water Board Data Center GitHub Repository: https://github.com/CAWaterBoardDataCenter/Trash-Tracker
 
-2018 CA Trash Data Drive: https://sites.google.com/sfei.org/trash/notes-from-the-field/data-dive
+2018 CA Trash Data Drive
+- Website: https://sites.google.com/sfei.org/trash/notes-from-the-field/data-dive
+- GitHub Repo: https://github.com/SCCWRP/2018TrashDataDive
 
 Nerd out with Drew direct link: https://sites.google.com/sfei.org/trash/notes-from-the-field/data-dive#h.p_XBOHXHWED_pL
 
