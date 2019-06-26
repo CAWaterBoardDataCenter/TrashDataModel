@@ -1,2 +1,2 @@
-Example images from West Sacramento Trash Project
+Example images from West Sacramento Street Sweeper Computer Vision Project
 
