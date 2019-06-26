@@ -43,8 +43,7 @@ Provide an update on the project. How far did you get? What challenges did you f
 California Water Board West Sacramento Street Sweeper Project
 - GitHub Repo: https://github.com/CAWaterBoardDataCenter/Trash-Tracker
 - See Trash Test Images Folder for example images from the project. 
-- The model and data structure is in progress. The planed data structure is:
-  In terms of the characteristics we’d like to identify for each piece of trash, we are aiming to use a schema called COMB, which stands for Category, Object, Material, Brand. Essentially this means identifying each piece of trash with a label for all four of those features. For now we will probably ignore the Category part (because we are still defining what that means in our context), but we’d like to have the model be able to provide the following information for each piece of trash:
+- The model and data structure is in progress. In terms of the characteristics we’d like to identify for each piece of trash, we are aiming to use a schema called COMB, which stands for Category, Object, Material, Brand. Essentially this means identifying each piece of trash with a label for all four of those features. For now we will probably ignore the Category part (because we are still defining what that means in our context), but we’d like to have the model be able to provide the following information for each piece of trash:
   -	Object: the type of object, for example cup, bottle, wrapper, cigarette, straw, etc.
   - Material: what it’s made of, e.g. paper, plastic, aluminum, cardboard, glass, etc.
   - Brand: probably not available in many cases, but in some cases it may be identifiable, e.g. Starbucks, McDonalds, Marlboro, etc.
