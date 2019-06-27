@@ -1,4 +1,4 @@
-# TrashDataModel
+# Trash Data Model
 
 ## Context
 The State Water Board’s Office of Information Management and Analysis (OIMA) is developing a new method to monitor and assess the quantity, distribution, and makeup of trash on streets to better understand the amount of trash entering (or being prevented from entering) California’s water bodies. OIMA has been working on a pilot project in partnership with the City of West Sacramento to develop a proof-of-concept tool that identifies and classifies trash in images using a customized computer vision model for trash identification, built on open-source machine learning resources and trained using a large library of images gathered from a street sweeper-mounted camera pointing at street curbs and gutters.
