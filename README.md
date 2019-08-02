@@ -39,7 +39,11 @@ Develop a list of data gaps. What data do we need to move forward on this projec
 
 Provide an update on the project. How far did you get? What challenges did you face? How did you overcome these challenges or what do you need to do so?
 
-### Resources
+### Datathon Debrief
+- The team identified gaps in the current data model, debated the merits of several different approaches to filling those gaps, and evaluated proposed taxonomies. At the same time, they weighed network (flat) taxonomic models and hierarchical models for trash classification, sought to address gaps in site characterization, and focused on calculated trash density as a vehicle for interoperable comparisons of trash presence across various methods. The team also briefly discussed the ability for the data model to accommodate derived data products such as statistics from machine learning algorithms, counts from imagery, and other synthetic, aggregated datasets.
+- Next steps will be to continue to iterate on the project to further refine the data model and schema. Additionally, there needs to be a validation of the appropriate classification system for trash. The Data Management subcommittee of the Trash Monitoring Workgroup will adopted as its charge the task of detailing how the model can accommodate derived data.
+
+## Resources
 California Water Board West Sacramento Street Sweeper Project
 - GitHub Repo: https://github.com/CAWaterBoardDataCenter/Trash-Tracker
 - See Trash_Test_Images Folder for example images from the project. 
